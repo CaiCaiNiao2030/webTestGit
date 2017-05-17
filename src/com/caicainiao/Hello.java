@@ -6,7 +6,7 @@ package com.caicainiao;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("2017Äê5ÔÂ17ÈÕ13:38:44");
-        System.out.println("ĞŞ¸Ä2017Äê5ÔÂ17ÈÕ13:42:00");
+        System.out.println("2017å¹´5æœˆ17æ—¥13:38:44");
+        System.out.println("ä¿®æ”¹2017å¹´5æœˆ17æ—¥13:42:00");
     }
 }
